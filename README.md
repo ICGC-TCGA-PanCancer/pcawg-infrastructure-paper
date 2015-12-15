@@ -1,2 +1,18 @@
 # pcawg-infrastructure-paper
-A repo to store scripts used to calculate statistics useful for the tech group publication
+
+This Jupyter notebook contains the beginnings of our analysis code for the [PCAWG](https://dcc.icgc.org/pcawg) infrastructure paper.  This paper describes our efforts to run the core analysis for the project, namely the alignment workflow with 3 variant calling workflows.  We built various infrastructure components that let us do this in a distributed way across many (14) cloud and HPC environments.
+
+The main text of the paper is currently in a private Google document.  This notebook will be used (maybe) to generate our figures if I can figure out how to program in Python!
+
+## Install
+
+You can find out how to install [here](http://jupyter.readthedocs.org/en/latest/install.html) but I found it easier just to use Anaconda to install everything for me (the 3.5 version).  See [Anaconda's](https://www.continuum.io/downloads) website.
+
+## Running
+
+Change to this directory in your shell then execute:
+
+    jupyter notebook
+
+You can then load the `.ipynb` file in the web GUI that opens in your default web browser.
+
