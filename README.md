@@ -6,7 +6,7 @@ The main text of the paper is currently in a private Google document and will be
 
 ## Install
 
-You can find out how to install [here](http://jupyter.readthedocs.org/en/latest/install.html) but I found it easier just to use Anaconda to install everything for me (the 3.5 version).  See [Anaconda's](https://www.continuum.io/downloads) website.
+You can find out how to install Jupyter [here](http://jupyter.readthedocs.org/en/latest/install.html) but I found it easier just to use Anaconda to install everything for me (the 3.x version).  See [Anaconda's](https://www.continuum.io/downloads) website.
 
 ## Running
 
