@@ -2,7 +2,7 @@
 
 This Jupyter notebook contains the beginnings of our analysis code for the [PCAWG](https://dcc.icgc.org/pcawg) infrastructure paper.  This paper describes our efforts to run the core analysis for the project, namely the alignment workflow with 3 variant calling workflows.  We built various infrastructure components that let us do this in a distributed way across many (14) cloud and HPC environments.
 
-The main text of the paper is currently in a private Google document.  This notebook will be used (maybe) to generate our figures if I can figure out how to program in Python!
+The main text of the paper is currently in a private Google document and will be shared with authors/contributors.  This notebook will be used to generate our figures. There may be some additional scripts in this repository if things don't work well with Python notebooks.
 
 ## Install
 
