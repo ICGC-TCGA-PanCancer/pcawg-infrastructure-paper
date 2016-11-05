@@ -16,3 +16,9 @@ Change to this directory in your shell then execute:
 
 You can then load the `.ipynb` file in the web GUI that opens in your default web browser.
 
+## Metadata File
+
+Junjun provided a metadata JSONL dump file that includes timing information:
+
+http://pancancer.info/gnos_metadata/2016-04-08_02-02-09_UTC/donor_p_160408020209.jsonl.gz
+
