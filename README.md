@@ -11,6 +11,7 @@ You can find out how to install Jupyter [here](http://jupyter.readthedocs.org/en
 You can also setup an environment before running jupyter using something like:
 
     conda create -n python3 python=3.5 anaconda
+    source activate python3
 
 And then continuing on with the launch of jupyter below.
 
