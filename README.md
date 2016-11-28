@@ -8,6 +8,12 @@ The main text of the paper is currently in a private Google document and will be
 
 You can find out how to install Jupyter [here](http://jupyter.readthedocs.org/en/latest/install.html) but I found it easier just to use Anaconda to install everything for me (the 3.x version).  See [Anaconda's](https://www.continuum.io/downloads) website.
 
+You can also setup an environment before running jupyter using something like:
+
+    conda create -n python3 python=3.5 anaconda
+
+And then continuing on with the launch of jupyter below.
+
 ## Running
 
 Change to this directory in your shell then execute:
@@ -16,9 +22,10 @@ Change to this directory in your shell then execute:
 
 You can then load the `.ipynb` file in the web GUI that opens in your default web browser.
 
+We're using Python 3.5 in this notebook.
+
 ## Metadata File
 
 Junjun provided a metadata JSONL dump file that includes timing information:
 
 http://pancancer.info/gnos_metadata/2016-04-08_02-02-09_UTC/donor_p_160408020209.jsonl.gz
-
