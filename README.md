@@ -34,3 +34,8 @@ We're using Python 3.5 in this notebook.
 Junjun provided a metadata JSONL dump file that includes timing information:
 
 http://pancancer.info/gnos_metadata/2016-04-08_02-02-09_UTC/donor_p_160408020209.jsonl.gz
+
+## TODO
+
+* I think there are zero values (especially for BWA) that need to be excluded
+* may need to consider each sample independently rather than aggregate timing info per donor's tumors
