@@ -13,6 +13,10 @@ You can also setup an environment before running jupyter using something like:
     conda create -n python3 python=3.5 anaconda
     source activate python3
 
+If you forgot the conda environment you setup previously use the below to list them:
+
+    conda info --envs
+
 And then continuing on with the launch of jupyter below.
 
 ## Running
