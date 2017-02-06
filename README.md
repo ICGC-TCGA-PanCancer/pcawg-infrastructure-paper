@@ -29,6 +29,14 @@ You can then load the `.ipynb` file in the web GUI that opens in your default we
 
 We're using Python 3.5 in this notebook.
 
+## Jupyter Notebooks:
+
+* [pcawg-infrastructure-paper.ipynb](pcawg-infrastructure-paper.ipynb): figures including runtime histograms
+* Linear regression modeling for predicting runtimes:
+    * [Broad Runtime Analysis.ipynb](Broad Runtime Analysis.ipynb)
+    * [Sanger Runtime Analysis.ipynb](Sanger Runtime Analysis.ipynb)
+    * [DKFZ EMBL Runtime Analysis.ipynb](DKFZ EMBL Runtime Analysis.ipynb)
+
 ## Data Files
 
 ### Metadata File
