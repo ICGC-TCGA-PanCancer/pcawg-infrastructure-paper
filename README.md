@@ -29,11 +29,29 @@ You can then load the `.ipynb` file in the web GUI that opens in your default we
 
 We're using Python 3.5 in this notebook.
 
-## Metadata File
+## Data Files
+
+### Metadata File
 
 Junjun provided a metadata JSONL dump file that includes timing information:
 
 http://pancancer.info/gnos_metadata/2016-04-08_02-02-09_UTC/donor_p_160408020209.jsonl.gz
+
+Find it in these files (split to avoid size limits by Github):
+
+* [donor_p_160408020209.1.jsonl.gz](donor_p_160408020209.1.jsonl.gz)
+* [donor_p_160408020209.2.jsonl.gz](donor_p_160408020209.2.jsonl.gz)
+* [donor_p_160408020209.small.jsonl.gz](donor_p_160408020209.small.jsonl.gz): a smaller file for testing
+
+### QC Summary File
+
+This is a metadata QC summary file from the QC working group:
+
+https://docs.google.com/spreadsheets/d/1zSs_hRQrCIBlUmPpDvyEwpJv3X4t8Y73s6ZRdkBkeI8/edit#gid=983410225
+
+Checked in as:
+
+* [PCAWG-QC_Summary-of-Measures_QC_Measures.tsv](PCAWG-QC_Summary-of-Measures_QC_Measures.tsv)
 
 ## TODO
 
